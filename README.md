@@ -37,7 +37,7 @@ Git과 GitHub를 활용한 소스 코드 버전 관리 및 협업 과정을 정�
 | Branch | 브랜치 전환 및 브랜치 병합 |
 | Troubleshooting | Push 거부 및 병합 충돌 관련 작업 경험 |
 
-**Related Project:** [번호판 탐지 프로젝트 - GitHub](여기에-실제-프로젝트-URL-입력)
+**Related Project:** [번호판 탐지 프로젝트 - GitHub](https://github.com/JHKINI/nextframe_opencv)
 
 위 프로젝트는 브랜치 병합과 충돌 관련 작업을 경험한 실제 팀 프로젝트입니다.
 
@@ -255,7 +255,7 @@ git status
 
 팀 프로젝트의 브랜치 병합 과정에서 충돌 관련 작업을 경험했습니다. 이를 통해 브랜치 통합은 단순히 명령어를 실행하는 것뿐 아니라, 변경 내용과 코드의 의도를 확인하는 과정이 중요하다는 점을 학습했습니다.
 
-**Related Project:** [번호판 탐지 프로젝트 - GitHub](여기에-실제-프로젝트-URL-입력)
+**Related Project:** [번호판 탐지 프로젝트 - GitHub](https://github.com/JHKINI/nextframe_opencv)
 
 ---
 
